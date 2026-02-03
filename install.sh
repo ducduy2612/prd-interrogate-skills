@@ -7,7 +7,7 @@ set -e
 
 SKILL_NAME="prd-interrogate"
 INSTALL_DIR="$HOME/.claude/skills/$SKILL_NAME"
-REPO_URL="https://raw.githubusercontent.com/YOUR_USERNAME/prd-interrogate-skills/main"
+REPO_URL="https://raw.githubusercontent.com/ducduy2612/prd-interrogate-skills/main"
 
 echo "🔍 Installing $SKILL_NAME skill..."
 echo ""

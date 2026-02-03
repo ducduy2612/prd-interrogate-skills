@@ -33,14 +33,14 @@ interrogate my requirements
 ### Option 1: One-line install (Recommended)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/prd-interrogate-skills/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ducduy2612/prd-interrogate-skills/main/install.sh | bash
 ```
 
 ### Option 2: Manual install
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/prd-interrogate-skills.git
+git clone https://github.com/ducduy2612/prd-interrogate-skills.git
 cd prd-interrogate-skills
 ```
 
@@ -55,8 +55,8 @@ cp skills/prd-interrogate/SKILL.md ~/.claude/skills/prd-interrogate/
 ### Option 3: Claude Code Plugin Marketplace
 
 ```bash
-/plugin marketplace add YOUR_USERNAME/prd-interrogate-skills
-/plugin install prd-interrogate@YOUR_USERNAME-prd-interrogate-skills
+/plugin marketplace add ducduy2612/prd-interrogate-skills
+/plugin install prd-interrogate@ducduy2612-prd-interrogate-skills
 ```
 
 ## Usage
@@ -111,7 +111,7 @@ MIT License - feel free to use and modify for your needs.
 
 ## Author
 
-Created by [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Created by [@ducduy2612](https://github.com/ducduy2612)
 
 ## See Also
 
